@@ -1,0 +1,19 @@
+C:\Users\Admin\Desktop\ИСИП 19-3\ИСИП-19-3-1\Произв.пр\Ruchki\bin\Debug\Ruchki.exe.config
+C:\Users\Admin\Desktop\ИСИП 19-3\ИСИП-19-3-1\Произв.пр\Ruchki\bin\Debug\Ruchki.exe
+C:\Users\Admin\Desktop\ИСИП 19-3\ИСИП-19-3-1\Произв.пр\Ruchki\bin\Debug\Ruchki.pdb
+C:\Users\Admin\Desktop\ИСИП 19-3\ИСИП-19-3-1\Произв.пр\Ruchki\obj\Debug\Ruchki.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ИСИП 19-3\ИСИП-19-3-1\Произв.пр\Ruchki\obj\Debug\Ruchki.FrmMaterial.resources
+C:\Users\Admin\Desktop\ИСИП 19-3\ИСИП-19-3-1\Произв.пр\Ruchki\obj\Debug\Ruchki.FrmMan.resources
+C:\Users\Admin\Desktop\ИСИП 19-3\ИСИП-19-3-1\Произв.пр\Ruchki\obj\Debug\Ruchki.Properties.Resources.resources
+C:\Users\Admin\Desktop\ИСИП 19-3\ИСИП-19-3-1\Произв.пр\Ruchki\obj\Debug\Ruchki.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ИСИП 19-3\ИСИП-19-3-1\Произв.пр\Ruchki\obj\Debug\Ruchki.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ИСИП 19-3\ИСИП-19-3-1\Произв.пр\Ruchki\obj\Debug\Ruchki.exe
+C:\Users\Admin\Desktop\ИСИП 19-3\ИСИП-19-3-1\Произв.пр\Ruchki\obj\Debug\Ruchki.pdb
+C:\Users\acer\Desktop\Произв.пр\Ruchki\obj\Debug\Ruchki.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Произв.пр\Ruchki\obj\Debug\Ruchki.FrmMaterial.resources
+C:\Users\acer\Desktop\Произв.пр\Ruchki\obj\Debug\Ruchki.FrmMan.resources
+C:\Users\acer\Desktop\Произв.пр\Ruchki\obj\Debug\Ruchki.Properties.Resources.resources
+C:\Users\acer\Desktop\Произв.пр\Ruchki\obj\Debug\Ruchki.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Произв.пр\Ruchki\obj\Debug\Ruchki.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Произв.пр\Ruchki\obj\Debug\Ruchki.exe
+C:\Users\acer\Desktop\Произв.пр\Ruchki\obj\Debug\Ruchki.pdb
